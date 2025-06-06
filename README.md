@@ -3,7 +3,7 @@
 
 A modern, interactive portfolio website built with Next.js, highlighting my work as a Full Stack Developer and AI Engineer. The site features smooth animations, responsive design, and optimal performance.
 
-![Portfolio Preview](public/preview.png)
+![Portfolio Preview] (public/fonts/preview.png)
 
 ## ✨ Features
 
